@@ -43,7 +43,7 @@ Here we can see in the code that all users passwords will be the same for now "P
 <br />
 
 <p>
-<img src="https://i.imgur.com/X8I8Pet.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0sjkCpQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 gddtchDGCHG  CE
