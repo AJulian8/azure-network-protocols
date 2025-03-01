@@ -1,4 +1,4 @@
-# azure-network-protocols
+# Creating Users - Group Policy and Managing Accounts
 <p align="center">
 <img src="https://i.imgur.com/g4LY2yK.png" width="400"/> 
 </p>
