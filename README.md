@@ -52,4 +52,4 @@ In this simulation we wanted to make it to where a user could actually get locke
 <img src="https://i.imgur.com/PEKQGzZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this simulation we wanted to make it to where a user could actually get locked out so I had to go in as the admin in group policy and change the account lockout settings.
+Here we can see I chose "beb.hul" as my canidate to be locked out of his account so now I'm in the background helping to get his password reset.
