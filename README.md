@@ -46,4 +46,4 @@ Here we can see in the code that all users passwords will be the same for now "P
 <img src="https://i.imgur.com/0sjkCpQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-gddtchDGCHG  CE
+In this simulation we wanted to make it to where a user could actually get locked out so I had to go in as the admin in grouply policy and change the account lockout settings.
