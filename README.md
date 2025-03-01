@@ -1,4 +1,4 @@
-# azure-netwwork-protocols
+# azure-network-protocols
 <p align="center">
 <img src="https://i.imgur.com/g4LY2yK.png" width="400"/> 
 </p>
