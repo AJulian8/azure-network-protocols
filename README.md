@@ -4,7 +4,7 @@
 </p>
 
 <h1>Active Directory - Prerequisites and Installation</h1>
-This tutorial outlines how I created users with Powershell and then went on to customize Group Policy and start managing the accounts.<br />
+This tutorial outlines how I created users with Powershell and then went on to edit the group policy and start managing the accounts.<br />
 
 <h2>Environments and Technologies Used</h2>
 
