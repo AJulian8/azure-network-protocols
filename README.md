@@ -30,7 +30,7 @@ This tutorial outlines how I created users with Powershell and then went on to e
 <img src="https://i.imgur.com/HtCQdID.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This diagram above is the easiest way to show  what I created as far as my client-1 and how it will be communicating with the domain controller. I also went in and created my rescourse groups along with a virtual network and subnet that will be shown in the next slides.
+In this image we have our code entered into Powershell that has given it orders to start generating all these different users we will be interacting with throughout the exercise.
 </p>
 <br />
 
