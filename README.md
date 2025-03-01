@@ -35,7 +35,7 @@ In this image we have our code entered into Powershell that has given it orders 
 <br />
 
 <p>
-<img src="https://i.imgur.com/XOkkW9G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UBEU4wf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here we can see that I successfully created my domain controller and set it up properly allowing me to use Server Manager. In this VM is where I can make changes to the firewall and also change client-1 and change the IP to point to my domain controller.
