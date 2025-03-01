@@ -22,7 +22,6 @@ This tutorial outlines how I created users with Powershell and then went on to e
 - Set up Domain Controller
 - Create a Virtual Network and Subnet
 - Create the Domain Controller VM's
-- Log into the VM and edit the firewall
 
 <h2>Active Directory Lab Steps</h2>
 
